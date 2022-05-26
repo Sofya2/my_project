@@ -4,26 +4,22 @@ margin-top: 0;
 padding: 20px 20px 20px 40px;
 }
 .footer {
-font-size: 16pt;
+font-size: 12pt;
 background-color: #ffa07a;
 text-align: center;
 padding: 20px 20px 20px 40px;
 margin-top: 0;
 }
-.glyphicon glyphicon-pencil {
-color: #000000;
-}
-.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:a
-ctive {
+.page-header h1, .page-header h1 a:visited, .page-header h1 a:active {
 color: #b22222;
 font-size: 36pt;
 text-decoration: none;
 }
+h1 a {
+color: #696969;
+}
 .content {
 margin-left: 40px;
-}
-span {
-color: #000000;
 }
 h1, h2, h3, h4 {
 font-family: 'Roboto', sans-serif;
@@ -38,7 +34,7 @@ float: right;
 width: 100%;
 }
 .top-menu, .top-menu:hover, .top-menu:visited {
-color: #000000;
+color: #ffffff;
 float: right;
 font-size: 26pt;
 margin-right: 20px;
@@ -47,8 +43,8 @@ margin-right: 20px;
 margin-bottom: 70px;
 }
 .post h1 a, .post h1 a:visited {
-color: #000000;
+color: #696969;
 }
 body {
-color: #e6e6fa;
+background-color: #e6e6fa;
 }
